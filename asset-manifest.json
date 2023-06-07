@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/TSICII/static/css/main.1afbd42e.css",
+    "main.js": "/TSICII/static/js/main.e52ab7eb.js",
+    "static/js/787.a9b03d03.chunk.js": "/TSICII/static/js/787.a9b03d03.chunk.js",
+    "static/media/approved.jpg": "/TSICII/static/media/approved.fed3e26cd7afab4e312d.jpg",
+    "static/media/hero-main-bg.png": "/TSICII/static/media/hero-main-bg.b54b1572176a37fe55fd.png",
+    "static/media/hero-theeth.54c2c4e9.png": "/TSICII/static/media/hero-theeth.54c2c4e9.d315c01cea7c7340a515.png",
+    "static/media/404.png": "/TSICII/static/media/404.e45a4490ce65c5b21c9e.png",
+    "static/media/g4.jpg": "/TSICII/static/media/g4.f96c684ef20eb493e32a.jpg",
+    "static/media/about-banner1.png": "/TSICII/static/media/about-banner1.5fbf7b3eac5f503ee185.png",
+    "static/media/g2.jpg": "/TSICII/static/media/g2.43794989d65a2ed7c52f.jpg",
+    "static/media/g1.jpg": "/TSICII/static/media/g1.9b545b12c11981d2b68a.jpg",
+    "static/media/experienceddentist.png": "/TSICII/static/media/experienceddentist.bc74913bdb961892358b.png",
+    "static/media/g3.jpg": "/TSICII/static/media/g3.7cd5d166a19bc4efa0e3.jpg",
+    "static/media/josefin-sans-all-400-normal.woff": "/TSICII/static/media/josefin-sans-all-400-normal.e89cb50b139916039cdc.woff",
+    "static/media/g5.jpg": "/TSICII/static/media/g5.f9815605cf72d4909ba4.jpg",
+    "static/media/service-details-promo2.png": "/TSICII/static/media/service-details-promo2.f55d89f380c9bcdd54b6.png",
+    "static/media/service-details-promo1.png": "/TSICII/static/media/service-details-promo1.443f860249f5015c6dae.png",
+    "static/media/doctorfinding.c2532ac3.png": "/TSICII/static/media/doctorfinding.c2532ac3.3e317a80d2565d9afd8a.png",
+    "static/media/doctor-nurse.png": "/TSICII/static/media/doctor-nurse.25c2728a8c3138632ffe.png",
+    "static/media/woman-brush.c4158ac5.png": "/TSICII/static/media/woman-brush.c4158ac5.815abad1e1e86fd641ab.png",
+    "static/media/testi1.png": "/TSICII/static/media/testi1.767c894cd77d3f416016.png",
+    "static/media/josefin-sans-latin-400-normal.woff2": "/TSICII/static/media/josefin-sans-latin-400-normal.36152c4291179fb52202.woff2",
+    "static/media/josefin-sans-latin-ext-400-normal.woff2": "/TSICII/static/media/josefin-sans-latin-ext-400-normal.3229870392aaa18099d0.woff2",
+    "static/media/josefin-sans-vietnamese-400-normal.woff2": "/TSICII/static/media/josefin-sans-vietnamese-400-normal.4a3e569a0e9e99674d59.woff2",
+    "index.html": "/TSICII/index.html",
+    "main.1afbd42e.css.map": "/TSICII/static/css/main.1afbd42e.css.map",
+    "main.e52ab7eb.js.map": "/TSICII/static/js/main.e52ab7eb.js.map",
+    "787.a9b03d03.chunk.js.map": "/TSICII/static/js/787.a9b03d03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1afbd42e.css",
+    "static/js/main.e52ab7eb.js"
+  ]
+}
